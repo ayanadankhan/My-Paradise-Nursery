@@ -18,7 +18,7 @@ function App() {
       {!isLandingPage && <Header />}
       <Routes>
         <Route path="/My-Paradise-Nursery" element={<LandingPage />} />
-        <Route path="/products" element={<ProductListingPage />} />
+        <Route path="/My-Paradise-Nursery/products" element={<ProductListingPage />} />
         <Route path="/cart" element={<ShoppingCartPage />} />
       </Routes>
     </div>

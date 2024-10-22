@@ -38,7 +38,7 @@ function LandingPage() {
         <div className="col-12 col-md-12 text-center">
           <h1 className="display-3 text-white">Welcome to Paradise Nursery</h1>
           <p className="lead text-white">Explore our wide variety of houseplants to bring life into your home.</p>
-          <a href="/products">
+          <a href="My-Paradise-Nursery/products">
             <button className="btn btn-primary btn-lg mt-3">Get Started</button>
           </a>
           
