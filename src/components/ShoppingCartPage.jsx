@@ -92,7 +92,7 @@ function ShoppingCartPage() {
                 <button className="btn btn-primary w-100">Proceed to Checkout</button>
               </Link>
 
-              <Link to="/products">
+              <Link to="/My-Paradise-Nursery/products">
                 <button className="btn btn-secondary w-100 mt-3 bg-success">Continue Shopping</button>
               </Link>
             </div>
