@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // Set base to '/' for development
+  base: '/My-Paradise-Nursery', // Set base to '/' for development
 });

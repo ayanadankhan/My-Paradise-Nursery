@@ -17,7 +17,7 @@ function App() {
       {/* Conditionally render Header based on the current route */}
       {!isLandingPage && <Header />}
       <Routes>
-        <Route path="/" element={<LandingPage />} />
+        <Route path="/My-Paradise-Nursery" element={<LandingPage />} />
         <Route path="/products" element={<ProductListingPage />} />
         <Route path="/cart" element={<ShoppingCartPage />} />
       </Routes>
