@@ -11,7 +11,7 @@ function Header() {
     <nav className="navbar navbar-fixed navbar-expand-lg navbar-dark bg-success">
       <div className="container d-flex justify-content-between align-items-center">
         {/* Brand Logo */}
-        <Link className="navbar-brand" to="/">Paradise Nursery</Link>
+        <Link className="navbar-brand" to="/My-Paradise-Nursery">Paradise Nursery</Link>
 
         {/* Collapsible Navbar Links (Gallery and Cart) */}
         <div className="d-flex align-items-center">
