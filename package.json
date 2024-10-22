@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://ayanadankhan.github.io/My-Paradise-Nursery",
- "scripts": {
+"scripts": {
   "dev": "vite",
   "build": "vite build",
   "lint": "eslint .",
@@ -12,6 +12,7 @@
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 }
+
 ,
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
